@@ -1,0 +1,95 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "strFruitName": "Orange",
+      "strBotanicalName": "Citrus sinensis",
+      "strCategory_Type": "Citrus",
+      "strSeason": "Winter",
+      "strFlavour": "Sweet & Tangy",
+      "strCalories": "47 kcal / 100g",
+      "strKeyNutrient": "Vitamin C",
+      "strSkinEdibility": "No",
+      "strNativeRegion": "China",
+      "strCommonUse": "Juice, Salads, Desserts"
+    },
+    {
+      "id": 2,
+      "strFruitName": "Apple",
+      "strBotanicalName": "Malus domestica",
+      "strCategory_Type": "Pome",
+      "strSeason": "Autumn",
+      "strFlavour": "Sweet & Crisp",
+      "strCalories": "52 kcal / 100g",
+      "strKeyNutrient": "Fiber",
+      "strSkinEdibility": "Yes",
+      "strNativeRegion": "Central Asia",
+      "strCommonUse": "Snacks, Pies, Juice"
+    },
+    {
+      "id": 3,
+      "strFruitName": "Banana",
+      "strBotanicalName": "Musa acuminata",
+      "strCategory_Type": "Tropical",
+      "strSeason": "Year-round",
+      "strFlavour": "Sweet",
+      "strCalories": "89 kcal / 100g",
+      "strKeyNutrient": "Potassium",
+      "strSkinEdibility": "No",
+      "strNativeRegion": "Southeast Asia",
+      "strCommonUse": "Smoothies, Baking, Snacks"
+    },
+    {
+      "id": 4,
+      "strFruitName": "Mango",
+      "strBotanicalName": "Mangifera indica",
+      "strCategory_Type": "Tropical",
+      "strSeason": "Summer",
+      "strFlavour": "Sweet & Juicy",
+      "strCalories": "60 kcal / 100g",
+      "strKeyNutrient": "Vitamin A",
+      "strSkinEdibility": "No",
+      "strNativeRegion": "India",
+      "strCommonUse": "Juice, Desserts, Salads"
+    },
+    {
+      "id": 5,
+      "strFruitName": "Strawberry",
+      "strBotanicalName": "Fragaria × ananassa",
+      "strCategory_Type": "Berry",
+      "strSeason": "Spring",
+      "strFlavour": "Sweet & Tart",
+      "strCalories": "32 kcal / 100g",
+      "strKeyNutrient": "Vitamin C",
+      "strSkinEdibility": "Yes",
+      "strNativeRegion": "Europe",
+      "strCommonUse": "Jam, Desserts, Smoothies"
+    },
+    {
+      "id": 6,
+      "strFruitName": "Pineapple",
+      "strBotanicalName": "Ananas comosus",
+      "strCategory_Type": "Tropical",
+      "strSeason": "Year-round",
+      "strFlavour": "Sweet & Tangy",
+      "strCalories": "50 kcal / 100g",
+      "strKeyNutrient": "Bromelain",
+      "strSkinEdibility": "No",
+      "strNativeRegion": "South America",
+      "strCommonUse": "Juice, Pizza, Desserts"
+    },
+    {
+      "id": 7,
+      "strFruitName": "Watermelon",
+      "strBotanicalName": "Citrullus lanatus",
+      "strCategory_Type": "Melon",
+      "strSeason": "Summer",
+      "strFlavour": "Sweet & Refreshing",
+      "strCalories": "30 kcal / 100g",
+      "strKeyNutrient": "Lycopene",
+      "strSkinEdibility": "No",
+      "strNativeRegion": "Africa",
+      "strCommonUse": "Fresh, Juice, Fruit Salad"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+export const BASEURL = "/v1/1/search.php?s=";
