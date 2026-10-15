@@ -29,28 +29,28 @@ export function NavBar() {
           </Link>
 
           <Link
-            to="/available-foods"
+            to="/"
             className="rounded-lg px-4 py-2 text-sm font-medium text-slate-600 transition hover:bg-slate-100 hover:text-slate-900"
           >
             Available Foods
           </Link>
 
           <Link
-            to="/marketplace"
+            to="/"
             className="rounded-lg px-4 py-2 text-sm font-medium text-slate-600 transition hover:bg-slate-100 hover:text-slate-900"
           >
             Marketplace
           </Link>
 
           <Link
-            to="/meals"
+            to="/"
             className="rounded-lg px-4 py-2 text-sm font-medium text-slate-600 transition hover:bg-slate-100 hover:text-slate-900"
           >
             Meals
           </Link>
 
           <Link
-            to="/suggestions"
+            to="/"
             className="rounded-lg px-4 py-2 text-sm font-medium text-slate-600 transition hover:bg-slate-100 hover:text-slate-900"
           >
             Suggestions
